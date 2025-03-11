@@ -1,6 +1,6 @@
-# 🌱 Cooperativa Digital – Agrotech  
+# 🌱 Ruralize
 
-A **Cooperativa Digital** é uma plataforma inovadora voltada para pequenos e médios produtores rurais, promovendo colaboração, compartilhamento de recursos e otimização logística. Nosso objetivo é fortalecer o cooperativismo e a sustentabilidade na agricultura, reduzindo custos e facilitando o acesso a tecnologia, maquinário e mercados.  
+A **Ruralize** é uma plataforma inovadora voltada para pequenos e médios produtores rurais, promovendo colaboração, compartilhamento de recursos e otimização logística. Nosso objetivo é fortalecer o cooperativismo e a sustentabilidade na agricultura, reduzindo custos e facilitando o acesso a tecnologia, maquinário e mercados.  
 
 ## 🚜 Problema  
 Pequenos agricultores enfrentam desafios como:  
