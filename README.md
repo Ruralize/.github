@@ -1,2 +1,2 @@
-# .github
-Ruralize - Software de Gestão de Cooperdativas
+# Ruralize
+Software de Gestão de Cooperdativas
