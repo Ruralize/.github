@@ -30,7 +30,7 @@ Criamos uma **plataforma digital cooperativa** que permite:
 🛒 Compradores e fornecedores  
 
 ## 🛠️ Tecnologias Utilizadas  
-*(Adicione as tecnologias que serão usadas, como frontend, backend, banco de dados, etc.)*  
+1. Figma: https://www.figma.com/design/VTGc7Qn2uPnMX32XJKV9V1/Ruralize---Fiap?node-id=0-1&p=f&t=6DnXnJBHZb9U5NlU-0
 
 ## 🚀 Como Contribuir  
 1. Faça um fork do repositório  
